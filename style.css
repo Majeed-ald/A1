@@ -130,6 +130,7 @@ section:last-child {
 }
 
 .sectionTitle img {
+	border:2px solid #50AAA9;
 	width: 100%;
 }
 
