@@ -11,28 +11,28 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #0B132B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
+html, body {background: #dbeaea; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
 
 .clear {clear: both;}
 
 p {
-	font-size: 1em;
-	line-height: 1.4em;
-	margin-bottom: 20px;
-	color: #709CD1;
+	font-size: 0.7em;
+	line-height: 1.6em;
+	margin-bottom: 9px;
+	color: #121213;
 }
 
 #cv {
 	width: 90%;
-	max-width: 800px;
-	background: #c4e0e0;
-	margin: 30px auto;
+	max-width: 900px;
+	background: #ffffff;
+	margin: 35px auto;
 }
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #5BC0BE;
-	background: #3A506B;
+	border-bottom: 3px solid #a3ddd4;
+	background: #bfc1c3;
 }
 
 #name h1 {
@@ -114,12 +114,12 @@ section:last-child {
 
 .sectionTitle {
 	float: left;
-	width: 25%;
+	width: 35%;
 }
 
 .sectionContent {
 	float: right;
-	width: 72.5%;
+	width: 100.5%;
 }
 
 .sectionTitle h1 {
