@@ -370,3 +370,9 @@ section:last-child {
 	-moz-animation-delay: 0, 2.5s;
 	animation-delay: 0, 2.5s;
 }
+ul{
+	color:#151515;
+	list-style-type:initial;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
